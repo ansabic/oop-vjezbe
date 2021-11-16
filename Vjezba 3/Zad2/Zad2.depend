@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636730008 source:/home/antonio/oop-vjezbe/Vjezba 3/Zad2/print.cpp
+	"print.h"
+	<iostream>
+
+1636730008 /home/antonio/oop-vjezbe/Vjezba 3/Zad2/print.h
+	<vector>
+
+1636730008 source:/home/antonio/oop-vjezbe/Vjezba 3/Zad2/unos.cpp
+	"unos.h"
+
+1636730008 /home/antonio/oop-vjezbe/Vjezba 3/Zad2/unos.h
+	<vector>
+	<iostream>
+
+1637100344 source:/home/antonio/oop-vjezbe/Vjezba 3/Zad2/zad2.cpp
+	"unos.h"
+	"print.h"
+

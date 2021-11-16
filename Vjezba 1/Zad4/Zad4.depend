@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637099636 source:/home/antonio/oop-vjezbe/Vjezba 1/Zad4/vjezba1_zad4_antonio_sabic.cpp
+	<iostream>
+	<ostream>
+	<cmath>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635517891 source:/home/antonio/oop-vjezbe/Vjezba 2/Zad4/vector.cpp
+	"vector.hpp"
+
+1635517748 /home/antonio/oop-vjezbe/Vjezba 2/Zad4/vector.hpp
+	<cstddef>
+	<iostream>
+
+1637100098 source:/home/antonio/oop-vjezbe/Vjezba 2/Zad4/zad4.cpp
+	"vector.hpp"
+

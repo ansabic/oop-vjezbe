@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637099332 source:/home/antonio/oop-vjezbe/Vjezba 1/Zad2/vjezba1_zad2_antonio_sabic.cpp
+	<iostream>
+	<ostream>
+	<iomanip>
+	<cstdlib>
+
