@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1636828765 source:/home/antonio/oop-vjezbe/Vjezba 5/Zad1/point.cpp
+	"point.h"
+	<cstdlib>
+	<cmath>
+
+1636833621 /home/antonio/oop-vjezbe/Vjezba 5/Zad1/point.h
+
+1637100989 source:/home/antonio/oop-vjezbe/Vjezba 5/Zad1/zad1.cpp
+	<iostream>
+	"point.h"
+

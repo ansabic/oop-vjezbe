@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1636923478 source:/home/antonio/oop-vjezbe/Vjezba 5/Zad2/game.cpp
+	"game.h"
+	"constants.h"
+	<iostream>
+
+1636903828 /home/antonio/oop-vjezbe/Vjezba 5/Zad2/game.h
+	"gun.h"
+	"target.h"
+	"trajectory.h"
+	<string>
+
+1636856975 /home/antonio/oop-vjezbe/Vjezba 5/Zad2/gun.h
+	"point.h"
+
+1636833621 /home/antonio/oop-vjezbe/Vjezba 5/Zad2/point.h
+
+1636857672 /home/antonio/oop-vjezbe/Vjezba 5/Zad2/target.h
+	"point.h"
+	"trajectory.h"
+
+1636916117 /home/antonio/oop-vjezbe/Vjezba 5/Zad2/trajectory.h
+	"point.h"
+	<cmath>
+
+1636836291 /home/antonio/oop-vjezbe/Vjezba 5/Zad2/constants.h
+	<string>
+
+1636856975 source:/home/antonio/oop-vjezbe/Vjezba 5/Zad2/gun.cpp
+	"gun.h"
+	"iostream"
+
+1636828765 source:/home/antonio/oop-vjezbe/Vjezba 5/Zad2/point.cpp
+	"point.h"
+	<cstdlib>
+	<cmath>
+
+1636918872 source:/home/antonio/oop-vjezbe/Vjezba 5/Zad2/target.cpp
+	"target.h"
+	"trajectory.h"
+
+1636923478 source:/home/antonio/oop-vjezbe/Vjezba 5/Zad2/trajectory.cpp
+	"trajectory.h"
+
